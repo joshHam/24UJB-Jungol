@@ -9,6 +9,6 @@ public class Main {
 		System.out.printf("%15s%15s%15s\n", "Daegu", "2,511,676", "+17,230");
 		System.out.printf("%15s%15s%15s", "Gwangju", "1,454,636", "+29,774");
 
-	}
+	}  
 
 }
