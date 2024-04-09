@@ -9,7 +9,7 @@ public class Main {
 		String[] charr = new String[10];
 		
 		for(int i =0;i<charr.length;i++) {
-			charr[i]=sc.next();
+			charr[i]=sc.next();  
 		}sc.close();
 		
 		
@@ -22,7 +22,7 @@ public class Main {
 		
 		
 		
-		//답Answer
+		//�떟Answer
 		for(int i= charr.length-1;i>=0;i--) {
 			
 		System.out.print(charr[i]+" ");
