@@ -10,7 +10,7 @@ public class Main {
 		int inp = sc.nextInt();
 		sc.close();
 		
-		Cal c1 = new Cal(inp);
+		Cal c1 = new Cal(inp);  
 		
 		c1.print();  
 
