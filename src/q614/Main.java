@@ -18,7 +18,7 @@ public class Main {
 		Person p2 = new Person(schoolName, grade);
 		
 		p1.print(); 
-		p2.print();
+		p2.print(); 
 	}
 }
 
