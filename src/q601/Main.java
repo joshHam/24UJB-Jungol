@@ -13,7 +13,7 @@ public class Main {
 		
 
 		for(int i=1;i<=s.length();i++) {
-			for(int j =s.length()-i; j<s.length();j++) {
+			for(int j =s.length()-i; j<s.length();j++) { 
 			System.out.print(s.charAt(j));
 			}
 			for(int j=0;j<s.length()-i;j++) {
@@ -27,26 +27,6 @@ public class Main {
 //		for(int i =0; i<s.length();i++) {
 //			System.out.print(s.charAt(i));
 //		}
-
-		
-		
-		
-		
-		
-		
-		
-		
-//		char []charr = s.toCharArray();
-		
-//		for(int i =0; i<s.length();i++) {
-//			for(int j =1; j<s.length();j++) {
-//			char c = charr[j];
-//			//print
-//			System.out.print(c);
-//			}
-//			System.out.println();
-//			}
-		
 		
 		
 		
