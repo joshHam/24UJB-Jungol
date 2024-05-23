@@ -11,7 +11,7 @@ public class Main {
 		sc.close();
 
 //		System.out.println(name);
-//		System.out.println(schoolName);
+//		System.out.println(schoolName); 
 //		System.out.println(grade);
 
 //		Student st1 = new Student();
