@@ -78,7 +78,7 @@ public class Main {			//강사풀이
       }
    }
 
-   public static void visit(int y, int x) {
+   public static void visit(int y, int x) {						//재귀함수
       visited[y][x] = 1;
       if (board[y][x] == 1) {
          board[y][x] = 2;
