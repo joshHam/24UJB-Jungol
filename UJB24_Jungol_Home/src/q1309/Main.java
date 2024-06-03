@@ -2,7 +2,7 @@ package q1309;
 
 import java.util.Scanner;
 
-public class Main {	//DP방법풀이	//재귀방법풀이찾기
+public class Main {	//DP(memoization)방법풀이	//재귀방법풀이도찾기
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
